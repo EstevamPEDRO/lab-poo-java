@@ -2,7 +2,7 @@ package lab03;
 
 public class Condicionais2 {
     public static void main(String[] args){
-        var nota = 60;
+        var nota = 100;
         if (nota >=90) {
             System.out.println("Conceito A");
         } else if (nota >= 80) {

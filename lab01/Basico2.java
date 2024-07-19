@@ -4,15 +4,10 @@ public class Basico2 {
 
     public static void main(String[] args) {
 
-        /**
-         * Os tipos primitivos são os tipos de dados mais simples e são fornecidos pela
-         * linguagem de programação. Eles não são objetos e não possuem métodos. Existem
-         * oito tipos primitivos em Java:
-         */
-
+        
         byte numeroByte1 = -128;
-        byte numeroByte2 = 127;
-        // byte numeroByte3 = 128; //ERRO
+        byte numeroByte2 = 127; 
+        byte numeroByte3 = 128; //ERRO
         byte numeroByte4 = Byte.MIN_VALUE;
         byte numeroByte5 = Byte.MAX_VALUE;
 
